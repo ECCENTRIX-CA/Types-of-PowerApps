@@ -1,4 +1,4 @@
-# Types-of-PowerApps-
+# Types of PowerApps
 PowerApps categorizes applications into three primary types, each serving distinct purposes and offering unique advantages: 
 
 **Canvas Apps**: Canvas apps give you the freedom to start from a blank canvas and design the app exactly as you envision it. You control the user interface, integrating data from multiple sources using PowerApps’ wide array of formulas. 
