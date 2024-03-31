@@ -7,15 +7,15 @@ PowerApps categorizes applications into three primary types, each serving distin
 
 **Configuration Steps**: 
 
-Start with a new canvas app in PowerApps. 
+1. Start with a new canvas app in PowerApps. 
 
-Design the interface with drag-and-drop elements. 
+2. Design the interface with drag-and-drop elements. 
 
-Integrate data sources, such as SharePoint or Excel. 
+3. Integrate data sources, such as SharePoint or Excel. 
 
-Add formulas to manage data interactions. 
+4. Add formulas to manage data interactions. 
 
-Test and share your app with your team. 
+5. Test and share your app with your team. 
 
 **Model-driven Apps**: These apps automatically generate a user interface (UI) that is responsive across devices, based on the data structure you define in the Common Data Service. Model-driven apps are ideal for complex scenarios with multiple relationships between data entities. 
 
@@ -23,13 +23,13 @@ Test and share your app with your team.
 
 **Configuration Steps**: 
 
-Define your data model in the Common Data Service. 
+1. Define your data model in the Common Data Service. 
 
-Use the PowerApps app designer to specify forms, views, and dashboards. 
+2. Use the PowerApps app designer to specify forms, views, and dashboards. 
 
-Configure business rules and workflows. 
+3. Configure business rules and workflows. 
 
-Publish and test your model-driven app. 
+4. Publish and test your model-driven app. 
 
 **Portal Apps**: Portal apps enable you to create external-facing websites that users outside your organization can visit to view and interact with data stored in the Common Data Service. These apps are perfect for customer service portals, community forums, or external databases. 
 
@@ -37,15 +37,15 @@ Publish and test your model-driven app.
 
 **Configuration Steps**: 
 
-Create a new portal app in PowerApps. 
+1. Create a new portal app in PowerApps. 
 
-Choose a template or start from scratch. 
+2. Choose a template or start from scratch. 
 
-Configure pages, forms, and data access. 
+3. Configure pages, forms, and data access. 
 
-Set up authentication for external users. 
+4. Set up authentication for external users. 
 
-Publish and share the portal with users. 
+5. Publish and share the portal with users. 
 
 **Conclusion** 
 
